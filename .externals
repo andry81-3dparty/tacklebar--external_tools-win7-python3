@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/3.12.1:
+    type:             git
+    url:              https://github.com/andry81-3dparty/tacklebar--external_tools-win7-python3
+    version:          "3.12.1"
+    fetch-to-branch:  "3.12.1"
